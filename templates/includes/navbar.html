@@ -23,7 +23,13 @@
                         href="{% url 'home' %}" > Home </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="cars.html"> Cars </a>
+                        <a  
+                        {% if 'cars' in request.path %}
+                        class="nav-link active"
+                        {% else %}
+                        class="nav-link"
+                        {% endif %}
+                        href="{% url 'cars' %}"> Cars </a>
                     </li>
                     <li class="nav-item">
                         <a  
