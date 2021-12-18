@@ -1,5 +1,6 @@
 {% extends 'base.html' %}
 {% block content %}
+{% load humanize %}
 {% load static %}
 
 <!-- Banner start -->
@@ -133,7 +134,7 @@
               <a href="car-details.html" class="car-img">
                 <div class="tag-2">Featured</div>
                 <div class="price-box">
-                  <span>{{car.price}} LE</span>
+                  <span>{{car.price | intcomma}} LE</span>
                 </div>
                 <img class="d-block w-100" src="{{car.car_photo.url}}" alt="car" style="min-height: 262px; max-height: 262px;">
               </a>
@@ -191,7 +192,7 @@
               </div>
               <ul class="facilities-list clearfix">
                 <li>{{car.fuel_type}}</li>
-                <li>{{car.kilometers}} km</li>
+                <li>{{car.kilometers | intcomma}} km</li>
                 <li>{{car.transmission}}</li>
                 <li>{{car.body_style}}</li>
                 <li>{{car.color}}</li>
@@ -234,7 +235,7 @@
               <div class="facilities-list clearfix">
                 <ul>
                   <li>
-                    <span><i class="flaticon-way"></i></span>{{car.kilometers}} km
+                    <span><i class="flaticon-way"></i></span>{{car.kilometers | intcomma}} km
                   </li>
                   <li>
                     <span><i class="flaticon-calendar-1"></i></span>{{car.year}}
@@ -303,7 +304,7 @@
               <p class="cartype">{{car.model}}</p>
             </div>
             <div class="pull-right">
-              <p class="price">{{car.price}} LE</p>
+              <p class="price">{{car.price | intcomma}} LE</p>
             </div>
           </div>
         </div>
