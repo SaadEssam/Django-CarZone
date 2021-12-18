@@ -93,6 +93,7 @@ class Car(models.Model):
   miles = models.IntegerField()
   fuel_type = models.CharField(max_length=50)
   no_of_owners = models.CharField(max_length=50)
+  Warranty = models.CharField(max_length=100, blank=True)
   is_featured = models.BooleanField(default=False)
   created_date = models.DateTimeField(default=datetime.now, blank=True)
   
