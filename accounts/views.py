@@ -7,7 +7,12 @@ def login(request):
   return render(request, 'accounts/login.html')
 
 def register(request):
-  return render(request, 'accounts/register.html')
+  if request.method == 'POST':
+    print('method done')
+    return redirect('register')
+  
+  else:
+    return render(request, 'accounts/register.html')
 
 def dashboard(request):
   return render(request, 'accounts/dashboard.html')
