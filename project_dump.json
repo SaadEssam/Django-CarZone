@@ -1,0 +1,1165 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "brand": "Nissan",
+        "car_title": "\u0646\u064a\u0633\u0627\u0646 \u0628\u062a\u0631\u0648\u0644 \u0628\u0644\u0627\u062a\u064a\u0646\u064a\u0648\u0645",
+        "city": "Cairo",
+        "color": "Gray",
+        "model": "Patrol | \u0628\u0627\u062a\u0631\u0648\u0644",
+        "year": 2014,
+        "condition": "Used",
+        "price": 1200000,
+        "description": "<p><strong>\u0646\u064a\u0633\u0627\u0646 \u0628\u062a\u0631\u0648\u0644 \u0628\u0644\u0627\u062a\u064a\u0646\u064a\u0648\u0645 \u0627\u0644\u0645\u0643\u064a\u0646\u0629 \u0627\u0644\u0643\u0628\u064a\u0631\u0629 \u0628\u062d\u0627\u0644\u0629 \u0645\u0645\u062a\u0627\u0632\u0629</strong></p>\r\n\r\n<p>\u0646\u064a\u0633\u0627\u0646 \u0628\u062a\u0631\u0648\u0644 \u0628\u0644\u0627\u062a\u064a\u0646\u064a\u0648\u0645</p>\r\n\r\n<p>\u0627\u0644\u0645\u0627\u0643\u064a\u0646\u0629 \u0627\u0644\u0643\u0628\u064a\u0631\u0629</p>\r\n\r\n<p>\u0645\u0648\u062f\u064a\u0644 2014&nbsp;</p>\r\n\r\n<p>260.000 KM</p>\r\n\r\n<p>\u0645\u0637\u0644\u0648\u0628 1200000</p>\r\n\r\n<p>\u0644\u0644\u062a\u0648\u0627\u0635\u0644 \u0627\u062a\u0635\u0627\u0644 01056484805</p>",
+        "car_photo": "photos/2021/12/15/1_lTp9US9.jpg",
+        "car_photo_1": "photos/2021/12/15/2.jpg",
+        "car_photo_2": "photos/2021/12/15/3.jpg",
+        "car_photo_3": "photos/2021/12/15/4.jpg",
+        "car_photo_4": "photos/2021/12/15/5.jpg",
+        "car_photo_5": "",
+        "car_photo_6": "",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Four-wheel drive",
+        "engine": "V8 with 428 hp",
+        "transmission": "Automatic",
+        "interior": "White",
+        "kilometers": 260000,
+        "doors": "4",
+        "passengers": 8,
+        "vin_no": "2E48H4663K4617O4",
+        "miles": 161556,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "Warranty": "",
+        "is_featured": true,
+        "created_date": "2021-12-15T13:41:32"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "brand": "Nissan",
+        "car_title": "\u0646\u064a\u0633\u0627\u0646 \u0627\u0644\u062a\u064a\u0645\u0627 \u0645\u0648\u062f\u064a\u0644 2014",
+        "city": "Ismailia",
+        "color": "White",
+        "model": "Altima | \u0627\u0644\u062a\u064a\u0645\u0627",
+        "year": 2014,
+        "condition": "Used",
+        "price": 310000,
+        "description": "<p><strong>\u0646\u064a\u0633\u0627\u0646 \u0627\u0644\u062a\u064a\u0645\u0627 \u0645\u0648\u062f\u064a\u0644 2014</strong></p>\r\n\r\n<p>Nissan Altima 2014 White color inside tan Four-cylinder USA space Good conditioner</p>",
+        "car_photo": "photos/2021/12/15/1_2Y0lBOV.jpg",
+        "car_photo_1": "photos/2021/12/15/2_wxq6p9q.jpg",
+        "car_photo_2": "photos/2021/12/15/3_S4adQ0C.jpg",
+        "car_photo_3": "photos/2021/12/15/4_8hdwVok.jpg",
+        "car_photo_4": "photos/2021/12/15/5_CjUTflD.jpg",
+        "car_photo_5": "",
+        "car_photo_6": "",
+        "features": "Airbags,Air Conditioning,Alarm System,Power Steering,Reversing Camera,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "mid-size sedan",
+        "engine": "2.4 L KA24DE I4 (150\u2013155 hp)",
+        "transmission": "Automatic",
+        "interior": "beige",
+        "kilometers": 152000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "3F48H445YY17O4",
+        "miles": 94448,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "Warranty": "",
+        "is_featured": true,
+        "created_date": "2021-12-15T13:52:23"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "brand": "Land Rover",
+        "car_title": "\u0644\u0627\u0646\u062f\u0631\u0648\u0641\u0631 \u062f\u0633\u0643\u0641\u0631\u064a \u0633\u0628\u0648\u0631\u062a",
+        "city": "Dakahlia",
+        "color": "Gold",
+        "model": "Discovery Sport | \u062f\u0633\u0643\u0641\u0631\u064a \u0633\u0628\u0648\u0631\u062a",
+        "year": 2013,
+        "condition": "New",
+        "price": 2600000,
+        "description": "<p><strong>\u0644\u0627\u0646\u062f\u0631\u0648\u0641\u0631 \u062f\u0633\u0643\u0641\u0631\u064a \u0633\u0628\u0648\u0631\u062a</strong></p>\r\n\r\n<p>RANGE ROVER VOGUE SUPERCHARGE 2013 = BODY KIT SVO = FULL-SERVICE HISTORY ALTAIR</p>\r\n\r\n<p>2013 Land Rover Range Rover Vogue Supercharged BODY KIT SOV = AL TAYER FULL-SERVICE HISTORY = FREE REGISTRATION = WARRANTY 149999- AED 177000 Km</p>",
+        "car_photo": "photos/2021/12/15/1_lmaVpSN.jpg",
+        "car_photo_1": "photos/2021/12/15/2_DDoD01z.jpg",
+        "car_photo_2": "photos/2021/12/15/3_agsWjJI.jpg",
+        "car_photo_3": "photos/2021/12/15/4_1SisxPf.jpg",
+        "car_photo_4": "photos/2021/12/15/5_k3kecDb.jpg",
+        "car_photo_5": "photos/2021/12/15/6.jpg",
+        "car_photo_6": "",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "luxury crossover SUV",
+        "engine": "JLR D8/LR-MS platform",
+        "transmission": "Automatic",
+        "interior": "Burgundy",
+        "kilometers": 0,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "6U48H4663K4617O4",
+        "miles": 0,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "Warranty": "",
+        "is_featured": true,
+        "created_date": "2021-12-15T13:59:04"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "brand": "Mercedes-Benz",
+        "car_title": "\u0645\u0631\u0633\u064a\u062f\u0633 \u0628\u0646\u0632 \u0633\u064a \u0643\u0644\u0627\u0633",
+        "city": "Alexandria",
+        "color": "White",
+        "model": "\u0633\u064a \u0643\u0644\u0627\u0633 | C class",
+        "year": 2018,
+        "condition": "Used",
+        "price": 1350000,
+        "description": "<p><strong>\u0645\u0631\u0633\u064a\u062f\u0633 \u0628\u0646\u0632 \u0633\u064a \u0643\u0644\u0627\u0633</strong></p>\r\n\r\n<p><strong>Mercedes c300 convertible</strong></p>\r\n\r\n<p>&rlm; \ud83d\ude98Type Of Vehicle: Mercedes C300 (convertible)</p>\r\n\r\n<p>\ud83d\ude98Model:2018 \ud83d\ude98Color:white&amp;from inside beige</p>\r\n\r\n<p>\ud83d\ude98Millage:104,000 km</p>\r\n\r\n<p>\ud83d\ude98American specifications</p>\r\n\r\n<p>\ud83d\ude98 Specifications:Done full service +new tries - full option Seats air-conditioned - blind spot &hellip;. AMG PACKAGE</p>\r\n\r\n<p>\ud83d\ude98Price: 1.350.000 (Negotiable)</p>\r\n\r\n<div>\r\n<div>&nbsp;</div>\r\n</div>",
+        "car_photo": "photos/2021/12/15/1_pnRjjGr.jpg",
+        "car_photo_1": "photos/2021/12/15/2_Qbm5mnA.jpg",
+        "car_photo_2": "photos/2021/12/15/3_AiexdkE.jpg",
+        "car_photo_3": "photos/2021/12/15/4_mhS5los.jpg",
+        "car_photo_4": "photos/2021/12/15/5_YrWlDK9.jpg",
+        "car_photo_5": "",
+        "car_photo_6": "",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Cabriolet",
+        "engine": "2.0L Turbo Inline-4 Gas",
+        "transmission": "Automatic",
+        "interior": "beige",
+        "kilometers": 104000,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "2E48H4654HRC7O4",
+        "miles": 64622,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "Warranty": "2 Years Limited",
+        "is_featured": true,
+        "created_date": "2021-12-15T14:14:48"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "brand": "BMW",
+        "car_title": "BMW  325i  E36",
+        "city": "Fayoum",
+        "color": "yellow",
+        "model": "BMW 3 Series",
+        "year": 1994,
+        "condition": "Used",
+        "price": 168000,
+        "description": "<p>\ud835\udc0e\ud835\udc25\ud835\udc1d \ud835\udc08\ud835\udc2c \ud835\udc06\ud835\udc0e\ud835\udc0b\ud835\udc03 <img alt=\"\ud83d\udcab\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/2/16/1f4ab.png\" style=\"height:16px; width:16px\" /></p>\r\n\r\n<p>BMW 325i E36 COUPE ORIGINAL <img alt=\"\ud83c\udde9\ud83c\uddea\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t75/2/16/1f1e9_1f1ea.png\" style=\"height:16px; width:16px\" /></p>\r\n\r\n<p>Model : 1994 &quot; 2500CC 6 Cylinder</p>\r\n\r\n<p>164.000 K.m</p>\r\n\r\n<p>&lrm;-( \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0641\u0627\u0628\u0631\u064a\u0643\u0629 \u0628\u0627\u0644\u0643\u0627\u0645\u0644 )-</p>\r\n\r\n<p>&lrm;-( \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0645\u062a\u0639\u062f\u0644\u0629 \u0628\u0627\u0644\u0643\u0627\u0645\u0644 \u0625\u0645 \u062b\u0631\u064a )-</p>\r\n\r\n<p>&lrm; -( \u0631\u062e\u0635\u0629 \u0633\u0646\u0629 \u0643\u0627\u0645\u0644\u0629 \u0645\u0631\u0648\u0631 \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629 )-</p>\r\n\r\n<p>&lrm;{ \u062c\u0646\u0637 17 \u0625\u0645 \u0627\u0631\u0648\u0686\u064a\u0646\u0627\u0644 - \u0639\u062f\u0627\u062f\u0627\u062a \u0625\u0645 \u0627\u0645\u0631\u064a\u0643\u064a -</p>\r\n\r\n<p>&lrm; - \u0645\u0631\u0627\u064a\u0627\u062a \u0625\u0645 - \u0635\u0627\u0644\u0648\u0646 \u0625\u0645 \u0643\u0627\u0645\u0644</p>\r\n\r\n<p>&lrm;\u0643\u064a\u062a \u0625\u0645 \u0643\u0627\u0645\u0644 \u0627\u0643\u0635\u062f\u0627\u0645 \u0627\u0645\u0627\u0645\u064a \u0648 \u062e\u0644\u0641\u064a \u0648\u0639\u062a\u0628\u062a\u064a\u0646 - \u0627\u0644\u0633\u064a\u0627\u0631\u0629 \u0628\u0627\u0644\u0643\u0627\u0645\u0644</p>\r\n\r\n<p>&lrm;\u0625\u0645 \u062b\u0631\u064a \u0648 \u0643\u0645\u0627\u0644\u064a\u0627\u062a \u0627\u062e\u0631\u064a . . . . }</p>",
+        "car_photo": "photos/2021/12/19/1.jpg",
+        "car_photo_1": "photos/2021/12/19/2.jpg",
+        "car_photo_2": "photos/2021/12/19/3.jpg",
+        "car_photo_3": "photos/2021/12/19/4.jpg",
+        "car_photo_4": "photos/2021/12/19/5.jpg",
+        "car_photo_5": "photos/2021/12/19/6.jpg",
+        "car_photo_6": "",
+        "features": "Audio Interface,Airbags,Air Conditioning,Reversing Camera,Bluetooth Handset",
+        "body_style": "COUPE",
+        "engine": "2500CC 6 Cylinder",
+        "transmission": "Automatic",
+        "interior": "Gray",
+        "kilometers": 164000,
+        "doors": "2",
+        "passengers": 4,
+        "vin_no": "3F48H564GFY17O4",
+        "miles": 101904,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "Warranty": "1 Years Limited",
+        "is_featured": true,
+        "created_date": "2021-12-19T14:42:41"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "brand": "Toyota",
+        "car_title": "Toyota Corolla 2018",
+        "city": "Qalyubia",
+        "color": "White",
+        "model": "Corolla",
+        "year": 2018,
+        "condition": "New",
+        "price": 350000,
+        "description": "<p>T O Y O T A - C O R O L L A - 2018</p>\r\n\r\n<p>T O P L I N E</p>\r\n\r\n<p>&quot; 1600 \u0633\u064a \u0633\u064a - \u0633\u0646\u062a\u0631 - \u0628\u0627\u0648\u0631 - \u062a\u0643\u064a\u064a\u0641- \u0627\u0648\u062a\u0648\u0645\u0627\u062a\u064a\u0643</p>\r\n\r\n<p>9 \u0627\u064a\u0631\u0628\u0627\u062c - Abs \u0641\u0631\u0627\u0645\u0644 - \u0628\u0635\u0645\u0647 - \u0632\u062c\u0627\u062c \u0641\u0627\u0645\u064a\u0647</p>\r\n\r\n<p>\u0644\u064a\u062f\u0627\u062a \u0627\u0645\u0627\u0645\u064a\u0647 \u0648 \u062e\u0644\u0641\u064a\u0647 - \u062c\u0646\u0648\u0637 16 - \u0645\u062b\u0628\u062a \u0633\u0631\u0639\u0647</p>\r\n\r\n<p>\u0625\u0634\u0627\u0631\u0627\u062a \u0645\u0631\u0627\u064a\u0627\u062a - \u0645\u0631\u0627\u064a\u0627\u062a \u0643\u0647\u0631\u0628\u0627\u0621 - \u0645\u0631\u0627\u064a\u0627\u062a \u0636\u0645</p>\r\n\r\n<p>\u062a\u062d\u0643\u0645 \u0637\u0627\u0631\u0647 - Sport Mode -\u0643\u0627\u0645\u064a\u0631\u0627 \u062e\u0644\u0641\u064a\u0647 - \u0643\u0627\u0633\u062a \u062a\u0627\u062a\u0634 - \u0627\u0633\u062a\u0628\u0646 \u0644\u0645 \u064a\u0633\u062a\u062e\u062f\u0645 - \u0641\u0631\u0634 \u062c\u0644\u062f - \u062f\u0648\u0627\u0633\u0647 \u062c\u0644\u062f - \u0648 \u0643\u0645\u0627\u0644\u064a\u0627\u062a \u0623\u062e\u0631\u0649.....&quot;</p>",
+        "car_photo": "photos/2021/12/19/1_qrFmvCk.jpg",
+        "car_photo_1": "photos/2021/12/19/2_nGAt2J1.jpg",
+        "car_photo_2": "photos/2021/12/19/3_mJQhbOU.jpg",
+        "car_photo_3": "photos/2021/12/19/4_5e6Du8F.jpg",
+        "car_photo_4": "photos/2021/12/19/5_67ZcKvo.jpg",
+        "car_photo_5": "photos/2021/12/19/6_oAKb4j1.jpg",
+        "car_photo_6": "photos/2021/12/19/7.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Alarm System,Power Steering,Reversing Camera,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Sedan",
+        "engine": "1600 CC",
+        "transmission": "Automatic",
+        "interior": "Gray - black",
+        "kilometers": 0,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "2E4495Z54HRC7O4",
+        "miles": 0,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "Warranty": "4 Years Limited",
+        "is_featured": true,
+        "created_date": "2021-12-19T14:52:59"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Founder",
+        "photo": "photos/2021/12/13/avatar-3_zu7DECH.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-13T15:30:30.770"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/2021/12/13/avatar-2.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-13T15:31:43.026"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Co-Founder",
+        "photo": "photos/2021/12/13/avatar-12.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-13T15:32:16.505"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Web Developer",
+        "photo": "photos/2021/12/13/avatar-10.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-13T15:33:39.327"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "John",
+        "last_name": "azar",
+        "designation": "Support Manager",
+        "photo": "photos/2021/12/13/avatar-1.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-13T15:34:45.778"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Ahmed",
+        "last_name": "Mado",
+        "car_id": 6,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "Toyota Corolla 2018",
+        "city": "Cairo",
+        "email": "Ahmedmado12@gmail.com",
+        "phone": "+201646468163",
+        "message": "I need more details about this car",
+        "user_id": 0,
+        "create_date": "2022-01-02T20:36:18.717"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Omar",
+        "last_name": "Osama",
+        "car_id": 5,
+        "customer_need": "I'd like to test drive this",
+        "car_title": "BMW  325i  E36",
+        "city": "Mansoura",
+        "email": "Omar@gmail.com",
+        "phone": "01154689564",
+        "message": "I need to test drive",
+        "user_id": 0,
+        "create_date": "2022-01-02T20:42:34"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Saad",
+        "last_name": "Essam",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "\u0645\u0631\u0633\u064a\u062f\u0633 \u0628\u0646\u0632 \u0633\u064a \u0643\u0644\u0627\u0633",
+        "city": "Cairo",
+        "email": "SaadEssam059@gmail.com",
+        "phone": "",
+        "message": "Test",
+        "user_id": 1,
+        "create_date": "2022-01-03T16:46:33.073"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Saad",
+        "last_name": "Essam",
+        "car_id": 6,
+        "customer_need": "I'm interested in this",
+        "car_title": "Toyota Corolla 2018",
+        "city": "te",
+        "email": "SaadEssam059@gmail.com",
+        "phone": "",
+        "message": "test",
+        "user_id": 1,
+        "create_date": "2022-01-03T20:10:38.566"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$QZoOEp2U7RPE$HaXLT2+vtWZq9SPGIfQODwOQfIaxiedNV5PO1d/d4u4=",
+        "last_login": "2022-01-04T18:33:10.462",
+        "is_superuser": true,
+        "username": "djangoadmin",
+        "first_name": "Saad",
+        "last_name": "Essam",
+        "email": "SaadEssam059@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-12-12T20:10:13",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$yInVMbXlvhZz$nnTo2OAmoXt6l75RJ6aWuBFx4Uqr9QyFCENCIynhWb4=",
+        "last_login": "2021-12-31T21:48:20.740",
+        "is_superuser": false,
+        "username": "lmg;g",
+        "first_name": "gklg;k;4",
+        "last_name": "l/kgl;rkl;k",
+        "email": "ggg@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-12-31T21:25:55.323",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!JaKLMUjWLyZY4zDLC5AoSk5if68qSXPvxLzK5LXr",
+        "last_login": "2022-01-02T17:06:02.871",
+        "is_superuser": false,
+        "username": "saad",
+        "first_name": "Saad",
+        "last_name": "Essam",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-01-02T17:06:02.850",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!JpSh5AoH2LrxEEOAzwY2EJSfIiobPT9u9QCcmMyg",
+        "last_login": "2022-01-02T17:44:41.771",
+        "is_superuser": false,
+        "username": "saad_essam",
+        "first_name": "Saad Essam",
+        "last_name": "Abdelfattah",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-01-02T17:44:41.687",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jegag6chaqvhngsxepowgvwb3hvyk8ey",
+    "fields": {
+        "session_data": "MDE0NTViZmQ3N2M1NWRmZTdlNTQyZTM5NGZhY2NlMGQyMzAwNjcxOTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIwYzY4NWM0ZTQ5NzBjYmM3NjkwYjI1NGNlZTgyMWE3NmI4OTA0MTEzIn0=",
+        "expire_date": "2021-12-26T20:10:49.087"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "nn9mnd6ijvfo71x03zr61o4c8yj81nts",
+    "fields": {
+        "session_data": "MDE0NTViZmQ3N2M1NWRmZTdlNTQyZTM5NGZhY2NlMGQyMzAwNjcxOTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIwYzY4NWM0ZTQ5NzBjYmM3NjkwYjI1NGNlZTgyMWE3NmI4OTA0MTEzIn0=",
+        "expire_date": "2022-01-18T18:33:10.464"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook Login",
+        "client_id": "1287940611683181",
+        "secret": "d6b537a5d9e142a20dc0f329d8d996e4",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "761684766771-jpknrsajfpf3vcbr4m4he4vs39lpkjai.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "saad"
+        ],
+        "provider": "facebook",
+        "uid": "4609337099157015",
+        "last_login": "2022-01-02T17:06:02.861",
+        "date_joined": "2022-01-02T17:06:02.861",
+        "extra_data": "{\"id\": \"4609337099157015\", \"name\": \"Saad Essam\", \"first_name\": \"Saad\", \"last_name\": \"Essam\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "saad_essam"
+        ],
+        "provider": "google",
+        "uid": "109657194555522950338",
+        "last_login": "2022-01-02T17:44:41.732",
+        "date_joined": "2022-01-02T17:44:41.732",
+        "extra_data": "{\"id\": \"109657194555522950338\", \"name\": \"Saad Essam Abdelfattah\", \"given_name\": \"Saad Essam\", \"family_name\": \"Abdelfattah\", \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14Gifl2YkvShAm4kPZf_l7vz0eHhmmAFKrMYaNSdfgw=s96-c\", \"locale\": \"en-GB\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 1,
+        "account": 1,
+        "token": "EAASTYAqms20BAH2kZCoLLOvdcpzNwDfM88vPysQNI9DcI55SVtLblUzcgG6uztPtyeVg3cenDxvOKoMf8Jd4VYkZBxx5X1QimKIZBDHmeTuH5VxrDxxsmnqLJDA74FuW9ZCg877yN5xoWW6FoctaiIg26hTrxtyt0qDwlcC24ENKzl4eQ8YMquKQeMd3MktnrqKrV9HHmIZBbl17x6cbcmFzI2RSBEJicA9mZAVOdwxgZDZD",
+        "token_secret": "",
+        "expires_at": "2022-03-03T17:05:05.214"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 2,
+    "fields": {
+        "app": 2,
+        "account": 2,
+        "token": "ya29.a0ARrdaM9WKyjvZw8Wbti17g3Kctpu5khf1aC0HCI48a4PUQ2pUhtLQN09tuyIW_yXq2v3tgl2kozJrc5G6BQ8BOESU3l18YsH6R9RbJR8gc6rqW_t2ju51n1lIdi-zmDPxa48et7sUnSs9hUtSmmPR1YK7qcx",
+        "token_secret": "",
+        "expires_at": "2022-01-02T18:44:40.399"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-12-12T20:16:05.797",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "djangoadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-12-13T14:31:34.294",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-12-13T15:16:36.427",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Saad",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-12-13T15:28:05.654",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Saad",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-12-13T15:30:30.772",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-12-13T15:31:43.028",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-12-13T15:32:16.507",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-12-13T15:33:39.329",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-12-13T15:34:45.779",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "John",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-12-15T13:52:22.969",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0628\u062a\u0631\u0648\u0644 \u0628\u0644\u0627\u062a\u064a\u0646\u064a\u0648\u0645",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-12-15T13:59:03.780",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0627\u0644\u062a\u064a\u0645\u0627 \u0645\u0648\u062f\u064a\u0644 2014",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-12-15T14:00:49.352",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0627\u0644\u062a\u064a\u0645\u0627 \u0645\u0648\u062f\u064a\u0644 2014",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Model\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-12-15T14:12:52.669",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "\u0644\u0627\u0646\u062f\u0631\u0648\u0641\u0631 \u062f\u0633\u0643\u0641\u0631\u064a \u0633\u0628\u0648\u0631\u062a",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-12-15T14:21:39.852",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "\u0645\u0631\u0633\u064a\u062f\u0633 \u0628\u0646\u0632 \u0633\u064a \u0643\u0644\u0627\u0633",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-12-15T14:33:13.819",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0628\u062a\u0631\u0648\u0644 \u0628\u0644\u0627\u062a\u064a\u0646\u064a\u0648\u0645",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Model\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-12-15T16:39:37.796",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0627\u0644\u062a\u064a\u0645\u0627 \u0645\u0648\u062f\u064a\u0644 2014",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-12-15T16:48:31.168",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0627\u0644\u062a\u064a\u0645\u0627 \u0645\u0648\u062f\u064a\u0644 2014",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-12-15T17:02:44.118",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0628\u062a\u0631\u0648\u0644 \u0628\u0644\u0627\u062a\u064a\u0646\u064a\u0648\u0645",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-12-15T17:05:00.565",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0627\u0644\u062a\u064a\u0645\u0627 \u0645\u0648\u062f\u064a\u0644 2014",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-12-18T22:48:05.106",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "\u0645\u0631\u0633\u064a\u062f\u0633 \u0628\u0646\u0632 \u0633\u064a \u0643\u0644\u0627\u0633",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Warranty\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-12-19T14:49:59.556",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "BMW  325i  E36",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-12-19T14:56:43.100",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Toyota Corolla 2018",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2021-12-19T14:56:50.827",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Toyota Corolla 2018",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2021-12-19T14:57:07.675",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Toyota Corolla 2018",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2021-12-20T16:18:10.669",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Toyota Corolla 2018",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Brand\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2021-12-20T16:18:35.111",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "BMW  325i  E36",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Brand\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2021-12-20T16:18:45.556",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "\u0645\u0631\u0633\u064a\u062f\u0633 \u0628\u0646\u0632 \u0633\u064a \u0643\u0644\u0627\u0633",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Brand\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2021-12-20T16:19:00.950",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "\u0644\u0627\u0646\u062f\u0631\u0648\u0641\u0631 \u062f\u0633\u0643\u0641\u0631\u064a \u0633\u0628\u0648\u0631\u062a",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Brand\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2021-12-20T16:19:12.087",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0627\u0644\u062a\u064a\u0645\u0627 \u0645\u0648\u062f\u064a\u0644 2014",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Brand\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2021-12-20T16:19:20.500",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "\u0646\u064a\u0633\u0627\u0646 \u0628\u062a\u0631\u0648\u0644 \u0628\u0644\u0627\u062a\u064a\u0646\u064a\u0648\u0645",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Brand\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2021-12-22T14:34:33.400",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Toyota Corolla 2018",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2022-01-02T16:57:35.761",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2022-01-02T16:58:27.725",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2022-01-02T17:39:27.901",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2022-01-02T20:43:49.370",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "2",
+        "object_repr": "Omar@gmail.com",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+}
+]
