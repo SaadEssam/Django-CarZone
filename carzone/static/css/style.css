@@ -918,10 +918,6 @@ input[type=checkbox]:checked + label:before {
     width: 0;
 }
 
-.banner-bg {
-    
-}
-
 .item-bg {
     
     height: 100vh;
