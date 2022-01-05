@@ -26,7 +26,7 @@ SECRET_KEY = '1v#jan0c(4b6=3z*v*ungkew+$ed^v^ekni20!z*)oc3xaqvi('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['secure-badlands-09463.herokuapp.com', 'carzone1.com', 'www.carzone1.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
